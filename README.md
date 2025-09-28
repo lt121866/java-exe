@@ -1,7 +1,7 @@
 # java-exe
 打包java成exe
 
--- 使用GraalVM编译jar成exe文件，需要完成一下步骤
+-- 使用GraalVM编译jar成exe文件，需要完成以下步骤:
 
 第一步：
     下载GraalVM软件，并安装。官网地址:https://www.graalvm.org/downloads/#
